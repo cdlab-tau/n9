@@ -1,0 +1,34 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="600" />
+    <ScalaCodeStyleSettings>
+      <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+      <option name="BLANK_LINES_AROUND_METHOD_IN_INNER_SCOPES" value="0" />
+      <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
+      <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+      <option name="KEEP_XML_FORMATTING" value="true" />
+      <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="KEEP_LINE_BREAKS" value="false" />
+      <option name="KEEP_FIRST_COLUMN_COMMENT" value="true" />
+      <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+      <option name="SPACE_WITHIN_BRACKETS" value="true" />
+      <option name="PREFER_PARAMETERS_WRAP" value="true" />
+      <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <option name="WRAP_LONG_LINES" value="true" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="4" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

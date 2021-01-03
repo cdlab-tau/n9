@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.scalafx:scalafx_2.12:8.0.144-R12" type="repository">
+    <properties maven-id="org.scalafx:scalafx_2.12:8.0.144-R12" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx_2.12/8.0.144-R12/scalafx_2.12-8.0.144-R12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.3/scala-reflect-2.12.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx_2.12/8.0.144-R12/scalafx_2.12-8.0.144-R12-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.3/scala-reflect-2.12.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalafx/scalafx_2.12/8.0.144-R12/scalafx_2.12-8.0.144-R12-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.3/scala-reflect-2.12.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
